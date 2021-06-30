@@ -5,3 +5,9 @@ Colour detection is the process of detecting the name of any color. But for our 
 and so the project explains how the color detection works.
 I have attached my source code for reference of my project.
 Do check it out!
+
+
+# COVID Tracker
+The COVID Tracking Project is to give a  complete picture of COVID-19 testing data that can be assembled.
+Understanding the shape, speed, and location of regional outbreaks requires the entire testing picture: how many people have actually been tested in each state/territory, when they were tested, and what their results were. That’s where their data comes in.
+Visualised the outcomes of the result for better understanding and analysis of the data
